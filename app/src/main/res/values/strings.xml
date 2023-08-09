@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ASM_cuatoi</string>
+    <string name="forgot_password"><u>forgot password</u></string>
+    <string name="sinup">Don\'t have an account?<b>Sign Up</b></string>
+    <string name="del"><u>Xóa</u></string>
+    <string name="edit"><u>Chỉnh sửa</u></string>
+</resources>
